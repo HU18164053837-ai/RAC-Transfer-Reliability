@@ -1,0 +1,15 @@
+﻿track,index,query,provider,cutoff,scope
+independent_data,1,recycled aggregate concrete dataset density crushing 2026,public_web_search,2026-11-08,discovery_only_followup_pages_logged_in_screening
+independent_data,2,recycled aggregate concrete 28 150 absorption 2025 experimental,public_web_search,2026-11-08,discovery_only_followup_pages_logged_in_screening
+independent_data,3,site:data.mendeley.com recycled aggregate concrete compressive strength,public_web_search,2026-11-08,discovery_only_followup_pages_logged_in_screening
+independent_data,4,site:zenodo.org recycled aggregate concrete dataset,public_web_search,2026-11-08,discovery_only_followup_pages_logged_in_screening
+independent_data,5,site:data.mendeley.com recycled aggregate 2026 strength,public_web_search,2026-11-08,discovery_only_followup_pages_logged_in_screening
+independent_data,6,recycled aggregate concrete experiment 150 cube density crushing absorption 2026,public_web_search,2026-11-08,discovery_only_followup_pages_logged_in_screening
+independent_data,7,recycled aggregate concrete dataset figshare 2025 compressive source,public_web_search,2026-11-08,discovery_only_followup_pages_logged_in_screening
+independent_data,8,recycled aggregate concrete experimental dataset Zenodo 28 day mix 2026,public_web_search,2026-11-08,discovery_only_followup_pages_logged_in_screening
+novelty,1,recycled aggregate concrete conformal 2026,public_web_search,2026-11-08,peer_reviewed_and_preprints_separated
+novelty,2,concrete compressive strength distribution shift 2026,public_web_search,2026-11-08,peer_reviewed_and_preprints_separated
+novelty,3,concrete selective prediction regression uncertainty,public_web_search,2026-11-08,peer_reviewed_and_preprints_separated
+novelty,4,recycled aggregate concrete source generalization uncertainty calibration,public_web_search,2026-11-08,peer_reviewed_and_preprints_separated
+novelty,5,recycled aggregate concrete selective conformal 2026,public_web_search,2026-11-08,peer_reviewed_and_preprints_separated
+novelty,6,concrete distribution shift source conformal 2026,public_web_search,2026-11-08,peer_reviewed_and_preprints_separated

@@ -1,0 +1,8 @@
+﻿category,reason
+"Source-publication PDFs, HTML downloads and copyrighted figures",Underlying full-text redistribution rights not established; source links and audit metadata retained
+"RAC-956 manuscript, models, code repository and submission package",Different scientific project; only already-used data and required provenance included
+"EJECE title page, cover letter, author declarations and main manuscript",Administrative/submission work products remain frozen locally; not needed to reproduce numerical study
+"Caches, environments, credentials, QA raster pages and temporary files",Not scientific inputs; excluded by policy and .gitignore
+Duplicated stage inputs and prior ZIP archives,"Canonical files plus input maps/index, not duplicate large predictions"
+Historic protection manifests with workstation paths,"Retained in local build audit, not required scientific data"
+Saved fitted estimators,No standalone frozen model files present in this study; predictions and actual training code are included

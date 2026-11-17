@@ -1,0 +1,31 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "numpy": "2.5.4",
+  "pandas": "3.1.0",
+  "sklearn": "1.9.1",
+  "scipy": "1.18.1",
+  "seeds": [
+    2026110801,
+    2026110802
+  ],
+  "base": {
+    "n_estimators": 200,
+    "min_samples_leaf": 3,
+    "max_features": 1.0,
+    "n_jobs": 1
+  },
+  "scale": {
+    "n_estimators": 200,
+    "min_samples_leaf": 10,
+    "target": "log1p(group_OOF_abs_error)",
+    "floor_mpa": 1
+  },
+  "plan_sha256": "53cd7859173ad0182305c7857b1c9c2a8c45ac6af865b33154e8356084659d06",
+  "proper_model_fits": 17,
+  "auxiliary_and_scale_fits": 68,
+  "phase3_bootstrap_seed": 2026110833,
+  "phase2_bootstrap_seed": 2026110899,
+  "bootstrap_resamples": 2000,
+  "additional_fits_during_repository_test": 0
+}

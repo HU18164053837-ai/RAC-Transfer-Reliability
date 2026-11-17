@@ -1,0 +1,3 @@
+﻿dataset,rows,columns_original,reference_numbers,canonical_sources,numeric_missing,outlier_flagged,zero_target,exact_input_duplicate_excess,exact_input_target_duplicate_excess
+compressive_strength,1736,15,116,115,0,87,0,57,32
+slump,1032,15,68,68,0,52,9,31,12

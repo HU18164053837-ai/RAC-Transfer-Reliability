@@ -1,0 +1,9 @@
+﻿term,definition,usage
+publication source,"Canonical bibliographic source identifier, not necessarily an independent laboratory or experiment",115 sources
+connected component,Publication identity and near-recipe links joined transitively,99 resampling and partition groups
+prediction event,One frozen out-of-group prediction for one record in one repeat,"3,472 events; 1,736 unique records"
+source-equal coverage,Mean within-source coverage using equal publication weights,All sources before rejection; survivors explicitly labelled afterwards
+original-source successful service,Mean accepted-and-covered fraction over the original source denominators,Composite scope-and-coverage description; not error or safety probability
+source retention,Fraction of original publication sources with any accepted prediction,Different from mean within-source sample retention
+zero-if-absent coverage,Survivor coverage with 0 assigned to wholly unserved sources,Accounting convention; rejection is not an erroneous prediction
+joint rule,Maximum calibration ECDF rank of distance and residual scale,Fixed heuristic; not learned gating

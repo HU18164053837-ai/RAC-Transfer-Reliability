@@ -1,0 +1,78 @@
+﻿reference,doi,n_rows,first_no,last_no,cs_min_mpa,cs_max_mpa
+"(Tam et al., 2021)",doi.org/10.1016/j.jclepro.2021.126307,22,1,22,24.65,42.75
+"(Aslani et al., 2018)",doi.org/10.1016/j.jclepro.2018.02.074,5,23,27,43.82,50.39
+"(Gholampour et al., 2021)",doi.org/10.1016/j.conbuildmat.2020.121004,9,28,36,16.5,43.2
+"(Whiting et al., 2012)",ro.uow.edu.au/eispapers/804,3,37,39,32,43.4
+"(Tam et al., 2019)",doi.org/10.1007/s42524-019-0019-2,1,40,40,31.9,31.9
+"(Tam et al., 2019)",doi.org/10.1007/s42524-019-0019-3,8,41,48,25.7,40.8
+"(Shaikh, 2016)",doi.org/10.1002/suco.201500030,6,49,54,37.4,52.1
+"(Gunasekara et al., 2020)",doi.org/10.3390/app10155207,6,55,60,19.5,42.15
+"(Munir et al., 2020)",doi.org/10.1088/1757-899x/829/1/012004,12,61,72,15.09,61.82
+"(Tang et al., 2019)",doi.org/10.3390/su11154182,4,73,76,23.7,42.9
+"(Shaikh, 2018)",doi.org/10.3390/buildings8080111,4,77,80,38,47
+"(Ozbakkaloglu et al., 2018)",doi.org/10.1061/(ASCE)MT.1943-5533.0002142,11,81,91,40.1,84.1
+"(Saha et al., 2021)",doi.org/10.1016/j.jobe.2020.101614,10,92,101,29,73
+"(Ahmed, 2013)",doi.org/10.1061/(ASCE)MT.1943-5533.0000763,10,102,111,32.9,46.9
+"(Tang et al., 2016)",doi.org/10.1155/2016/2761294,5,112,116,53.8,65.3
+"(Kotrayothar, 2012)",researchdirect.westernsydney.edu.au/islandora/object/uws:11258/,47,117,163,25.26,80.4
+"(Gholampour and Ozbakkaloglu, 2018)",doi.org/10.1016/j.engstruct.2017.12.015,6,164,169,32,80.1
+"(Elchalakani et al., 2017)",doi.org/10.1061/(ASCE)MT.1943-5533.0001748,13,170,182,24,74.8
+"(Corinaldesi, 2010)",doi.org/10.1016/j.conbuildmat.2010.02.031,15,183,197,31.6,58.6
+"(Abd Elhakam et al., 2012)",doi.org/10.1016/j.conbuildmat.2012.04.013,6,198,203,21.5,38.3
+"(Andreu and Miren, 2014)",doi.org/10.1016/j.conbuildmat.2012.04.013,10,204,213,91.23,108.51
+"(Duan and Poon, 2014)",doi.org/10.1016/j.matdes.2014.01.044,16,214,229,27.7,80.5
+"(Pepe et al., 2014)",doi.org/10.1016/j.mechrescom.2014.02.001,2,230,231,31.66,44
+"(Santana Rangel et al., 2017)",doi.org/10.1016/j.cemconcomp.2017.06.009,6,232,237,26.7,68.3
+"(Dimitriou et al., 2018)",doi.org/10.1016/j.conbuildmat.2017.09.137,7,238,244,35.6,72.1
+"(Kou and Poon, 2012)",doi.org/10.1016/j.conbuildmat.2012.02.032,20,245,264,25.2,68.9
+"(Pedro et al., 2017)",doi.org/10.1016/j.conbuildmat.2017.07.215,11,265,275,61,72.6
+"(Thomas et al., 2018)",doi.org/10.1016/j.jobe.2018.05.007,36,276,311,29.3,52.8
+"(Alam et al., 2013)",,9,312,320,48.14,85.9
+"(Çakır, 2014)",doi.org/10.1016/j.conbuildmat.2014.06.032,25,321,345,21.9,46.1
+"(Hwang et al., 2013)",doi.org/10.1007/s12205-013-1245-5,4,346,349,19.5,24
+"(Jalilifar et al., 2016)",,8,350,357,30.8,57.4
+"(Kubissa et al., 2016)",doi.org/10.3311/PPci.8614,6,358,363,40.4,49.2
+"(Mukesh et al., 2012)",doi.org/10.14359/51683574,24,364,387,18,39
+"(Somna et al., 2012)",doi.org/10.1061/(ASCE)MT.1943-5533.0000360,15,388,402,19.4,44.4
+"(Tuyan et al., 2014)",doi.org/10.1016/j.matdes.2013.07.100,12,403,414,35.8,57.2
+"(Dilbas et al., 2014)",doi.org/10.1016/j.conbuildmat.2014.02.057,12,415,426,28.9,45.5
+"(Malešev et al., 2010)",doi.org/10.3390/su2051204,3,427,429,43.44,45.66
+"(Belén et al., 2011)",doi.org/10.1016/j.conbuildmat.2010.11.031,8,430,437,30.13,44.81
+"(Manzi et al., 2013)",doi.org/10.1016/j.cemconcomp.2013.01.003,5,438,442,41.3,51.4
+(Vivian et al.),doi.org/10.14359/51686336,25,443,467,26,48.5
+"(Çakır and Sofyanlı, 2015)",doi.org/10.1016/j.hbrcj.2014.06.002,12,468,479,42.5,57.5
+"(Kou et al., 2011)",doi.org/10.1016/j.cemconcomp.2010.10.003,3,480,482,34.3,43.8
+"(Kou et al., 2012)",doi.org/10.1016/j.conbuildmat.2012.06.060,10,483,492,27.9,45.3
+"(Medina et al., 2014)",doi.org/10.1016/j.jclepro.2014.01.002,5,493,497,44.75,65.03
+"(Kou and Poon, 2013)",doi.org/10.1016/j.cemconcomp.2012.12.011,3,498,500,26.6,36.2
+"(Pedro et al., 2017)",doi.org/10.1016/j.jclepro.2017.06.249,12,501,512,90.1,102.2
+"(Habibi et al., 2021)",doi.org/10.1016/j.resconrec.2021.105420,15,513,527,25,37.4
+"(Laserna and Montero, 2016)",doi.org/10.1016/j.conbuildmat.2016.04.037,20,528,547,32.4,45.8
+"(Guo et al., 2020)",doi.org/10.1016/j.conbuildmat.2019.117115,23,548,570,7.17,53.45
+"(Wang et al., 2023)",doi.org/10.1016/j.conbuildmat.2023.130455,5,571,575,43.98,54.39
+"(Kou et al., 2013)",doi.org/10.1016/j.cemconcomp.2012.12.011,15,576,590,36.27,63.67
+"(Kou et al., 2008)",doi.org/10.1617/s11527-007-9317-y,32,591,622,38.1,76.7
+"(Kou et al., 2007)",doi.org/10.1061/(ASCE)0899-1561(2007)19:9(709,24,623,646,25.2,66.8
+"(Corinaldesi and Moriconi, 2009)",doi.org/10.1016/j.conbuildmat.2009.02.004,4,647,650,28.02,41.96
+"(Sim and Park, 2011)",doi.org/10.1016/j.wasman.2011.06.014,18,651,668,33.72,52.24
+"(Shmlls et al., 2023)",doi.org/10.1016/j.asej.2022.102036,10,669,678,54,76.8
+"(Guo et al., 2022)",doi.org/10.1016/j.jclepro.2022.132820,1,679,679,41.7,41.7
+"(Dhandapani  et al., 2018)",doi.org/10.1016/j.cemconres.2018.02.005,6,680,685,38.32,54.8
+"(Elhadi et al., 2023)",doi.org/10.1016/j.cscm.2023.e02430,16,686,701,18.92,36.94
+"(Muduli et al., 2019)",doi.org/10.1016/j.conbuildmat.2019.117223,11,702,712,32.34,40.47
+"(Yaba et al., 2021)",doi.org/10.1016/j.matpr.2021.01.164,5,713,717,26.8,35.2
+"(Li, 2020)",doi.org/10.1016/j.compositesb.2020.108189,4,718,721,32.8,47.6
+"(Hawileh et al., 2023)",doi.org/10.1016/j.matpr.2023.03.336,5,722,726,23.1,71.2
+"(Shankar Biswal and Dinakar, 2023)",doi.org/10.1016/j.conbuildmat.2023.130676,12,727,738,16.36,64.15
+"(Gao et al., 2023)",doi.org/10.1016/j.conbuildmat.2022.129736,10,739,748,47.3,58.3
+"(Hakeem et al., 2023)",doi.org/10.1016/j.jmrt.2023.05.050,7,749,755,51.5,70.9
+"(Amiri and Hatami, 2022)",doi.org/10.1016/j.conbuildmat.2022.126839,75,756,830,33.95,49.58
+"(Van Tran and Chau, 2021)",doi.org/10.1186/s40069-021-00491-8,27,831,857,40.8,73.6
+"(Çakır and Dilbas, 2021)",doi.org/10.1016/j.conbuildmat.2020.121776,21,858,878,23.4,50.4
+"(Meddah et al., 2020)",doi.org/10.3390/BUILDINGS10090167,12,879,890,10,34
+"(Babalola et al., 2020)",doi.org/10.1016/j.jmrt.2020.04.038,12,891,902,30.6,41.4
+"(Majhi et al., 2018)",doi.org/10.1016/j.conbuildmat.2017.10.118,16,903,918,23.95,37.76
+"(Khodair and Bommareddy, 2017)",doi.org/10.1016/j.conbuildmat.2017.07.063,20,919,938,16.78,54.87
+"(Shaikh, 2017)",doi.org/10.1016/j.ijsbe.2017.10.005,6,939,944,42.47,58.28
+"(Pedro et al., 2017)",doi.org/10.1016/j.jclepro.2017.06.249,12,945,956,90.1,102.2
+"(Limbachiya et al., 2012)",doi.org/10.1016/j.conbuildmat.2011.07.023,24,957,980,24.73,44.78

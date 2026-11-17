@@ -1,0 +1,10 @@
+{
+  "exact_duplicate_clusters": 55,
+  "conflicting_target_clusters": 23,
+  "conflicting_target_rows": 48,
+  "largest_group_rows": 120,
+  "multisource_groups": 6,
+  "new_rac_rows": 1488,
+  "new_control_rows": 248,
+  "doi_present_references": 77
+}

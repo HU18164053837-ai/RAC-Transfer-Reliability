@@ -1,0 +1,15 @@
+{
+  "independent_search_queries": 8,
+  "independent_candidates": 6,
+  "rows_admitted": 0,
+  "external_confirmation_performed": false,
+  "search_closed": true,
+  "novelty_queries": 6,
+  "focus_sources": 7,
+  "focus_rows": 247,
+  "focus_primary_fulltexts_obtained": 0,
+  "focus_rowwise_confirmed_sources": 0,
+  "confirmed_numeric_conflict_sources": 0,
+  "confirmed_bibliographic_page_conflicts": 1,
+  "important": "No full-text row mapping is not evidence the records are wrong"
+}

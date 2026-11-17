@@ -1,0 +1,11 @@
+{
+  "decision": "CONDITIONAL GO",
+  "independent_paper_ready": false,
+  "base_rmse": 8.835993175984795,
+  "pooled_source_coverage": 0.8531081173451268,
+  "adaptive_matched_source_coverage": 0.8365348136212398,
+  "joint_quota80_rmse": 7.934024805061213,
+  "joint_quota80_source_coverage": 0.855173977928352,
+  "external_confirmation": false,
+  "positive_algorithm_superiority_established": false
+}

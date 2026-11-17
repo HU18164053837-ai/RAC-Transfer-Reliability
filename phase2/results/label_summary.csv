@@ -1,0 +1,3 @@
+﻿dataset,rows,sources,groups,known_age_rows,independently_original_geometry_rows,test_standard_known_rows,risk_rows,risk_groups
+new,1736,115,99,1736,0,0,254,4
+old_frozen,722,67,63,722,18,0,0,0

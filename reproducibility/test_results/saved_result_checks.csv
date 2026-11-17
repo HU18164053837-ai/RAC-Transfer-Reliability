@@ -1,0 +1,22 @@
+check,status,details
+Import /prepare,PASS,No producer main executed
+Import /experiment,PASS,No producer main executed
+Import phase2/prepare_phase2,PASS,No producer main executed
+Import phase2/run_experiments,PASS,No producer main executed
+Import phase2/analyze,PASS,No producer main executed
+Import phase3/prepare,PASS,No producer main executed
+Import phase3/supplement,PASS,No producer main executed
+Main cohort,PASS,1736 rows / 115 publications / 99 components
+Two dependent prediction repeats,PASS,No new independent observations inferred
+Prediction alignment target,PASS,Saved records join the frozen modelling matrix
+Prediction alignment source_id,PASS,Saved records join the frozen modelling matrix
+Prediction alignment group,PASS,Saved records join the frozen modelling matrix
+Raw workbook numeric values,PASS,No label/geometry/unit conversion introduced
+Raw merged references,PASS,Only actual B-column merged source references restored
+Source-contained components,PASS,Publication identity stays within one component
+Known recipe edge isolation,PASS,All 556 saved target-free recipe edges contained
+All saved split roles isolated,PASS,"17 runs, including metadata sensitivity and historical stress tests"
+Scale OOF isolation,PASS,15799 saved OOF targets remain outside auxiliary fitting groups
+Main interval and all selection metrics,PASS,12100 stored values recalculated within 1e-9; all 600 operating points checked
+All paper result provenance retained,PASS,"223 audited values retain source CSVs, fields and row filters"
+Frozen uncertainty outputs retained,PASS,Input bytes checked by verify_integrity.py; no bootstrap rerun

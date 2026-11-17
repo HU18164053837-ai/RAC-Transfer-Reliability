@@ -1,0 +1,64 @@
+{
+  "status": "PASS",
+  "figure_count": 6,
+  "figures": [
+    {
+      "figure": "Fig1_data_and_evidence.png",
+      "dimensions": [
+        1393,
+        2161,
+        4
+      ],
+      "pixel_identical": true
+    },
+    {
+      "figure": "Fig2_coverage_interval_cost.png",
+      "dimensions": [
+        1712,
+        2161,
+        4
+      ],
+      "pixel_identical": true
+    },
+    {
+      "figure": "Fig3_source_coverage_residuals.png",
+      "dimensions": [
+        1594,
+        2161,
+        4
+      ],
+      "pixel_identical": true
+    },
+    {
+      "figure": "Fig4_retention_service_risk.png",
+      "dimensions": [
+        1712,
+        2161,
+        4
+      ],
+      "pixel_identical": true
+    },
+    {
+      "figure": "Fig5_baselines_source_exclusion.png",
+      "dimensions": [
+        1712,
+        2161,
+        4
+      ],
+      "pixel_identical": true
+    },
+    {
+      "figure": "FigS1_nominal_calibration.png",
+      "dimensions": [
+        885,
+        2161,
+        4
+      ],
+      "pixel_identical": true
+    }
+  ],
+  "wall_seconds": 18.520756300000357,
+  "additional_fits": 0,
+  "resampling": 0,
+  "note": "PDF/SVG timestamps may differ; frozen originals are never overwritten. Cross-platform fonts can change pixels."
+}

@@ -1,0 +1,10 @@
+﻿item,scope_or_evidence,trace
+Main cohort,"1,736 mixture records; all original flags retained",phase2/data/new_frozen.csv; phase2/data/database_README.md
+Inputs and target,11 numeric inputs; 28-day MPa label; 150 mm cube equivalence is a compiler claim,phase2/common.py FULL; phase2/data/database_README.md
+Publication identity,115 canonical publication sources; database references [2] and [75] share one DOI,phase2/data/new_references.csv
+Association unit,99 connected components; source identity plus eight-field near-recipe links,phase2/results/verified_recipe_edges.csv; phase2/data/new_frozen.csv
+Repeated evaluation,"2 × 5 outer component folds; 3,472 prediction events; 1,736 unique records",phase2/results/predictions.csv; phase2/results/split_ledger.csv
+Unresolved metadata,"7 priority sources, 247 records; original row-level confirmation incomplete for all seven",phase3/results/source_verification_summary.csv
+Risk sensitivity,"4 flagged components, 254 records removed in an existing one-repeat analysis",phase2/results/label_summary.csv; phase2/results/interval_metrics.csv
+Independent confirmation,6 candidates screened; 0 admitted records in the bounded search,phase3/results/independent_candidates.csv
+Historical corpus,980 raw candidates; 722 frozen records; 586 in six-input stress cohort,phase3/data/old_all980_classification.csv; phase2/data/old_input.csv core_eligible; phase2/data/legacy_count_evidence.md

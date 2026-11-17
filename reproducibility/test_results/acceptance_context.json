@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-17",
+  "checkout": "Fresh local Git clone, separate virtual environment installed from declared pins",
+  "tested_content_commit": "9858f01ba2d9fe683004ad63ab48900a01f97d03",
+  "relation_to_final_commit": "Final initial commit adds these test receipts, dependency lock and handover notes; numerical inputs and tested algorithms unchanged",
+  "remote_roundtrip": "Recorded separately after the actual remote push",
+  "additional_fits": 0,
+  "resampling": 0
+}

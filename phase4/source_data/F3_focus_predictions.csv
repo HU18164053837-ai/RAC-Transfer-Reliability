@@ -1,0 +1,155 @@
+﻿record_key,ref_no,source_id,group,repeat,fold,target,prediction,residual
+new:CS_0552,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,66.5,53.428045119047603,-13.071954880952397
+new:CS_0553,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,72.900000000000006,51.577540793650797,-21.322459206349208
+new:CS_0554,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,67.700000000000003,52.677530873015854,-15.022469126984149
+new:CS_0555,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,59.299999999999997,52.229655912698405,-7.0703440873015921
+new:CS_0556,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,58.899999999999999,41.367576587301585,-17.532423412698414
+new:CS_0557,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,74.299999999999997,49.799300476190474,-24.500699523809523
+new:CS_0558,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,68,50.397335277777778,-17.602664722222222
+new:CS_0559,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,74.299999999999997,56.892330000000022,-17.407669999999975
+new:CS_0560,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,68.5,37.39432742063493,-31.10567257936507
+new:CS_0561,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,70.5,39.5809733888889,-30.9190266111111
+new:CS_0562,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,68.099999999999994,48.403236309523798,-19.696763690476196
+new:CS_0563,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,62,53.934676865079389,-8.0653231349206109
+new:CS_0564,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,52.899999999999999,33.665050833333332,-19.234949166666667
+new:CS_0565,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,52.200000000000003,39.749836865079367,-12.450163134920636
+new:CS_0566,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,71,47.599859730158762,-23.400140269841238
+new:CS_0567,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,0,3,73.099999999999994,53.988426746031763,-19.111573253968231
+new:CS_1150,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,48.399999999999999,31.33424458333333,-17.065755416666669
+new:CS_1151,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,53.299999999999997,31.022105979853485,-22.277894020146512
+new:CS_1152,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,46.899999999999999,30.430827170329675,-16.469172829670324
+new:CS_1153,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,45.299999999999997,28.849935038295019,-16.450064961704978
+new:CS_1154,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,46.299999999999997,28.80882200258074,-17.491177997419257
+new:CS_1155,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,43.299999999999997,28.207160124458859,-15.092839875541138
+new:CS_1156,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,40.5,27.680339404761867,-12.819660595238133
+new:CS_1157,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,46.299999999999997,27.449001017315986,-18.850998982684011
+new:CS_1158,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,42.299999999999997,27.153132564935053,-15.146867435064944
+new:CS_1159,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,52.600000000000001,31.342030682234427,-21.257969317765575
+new:CS_1160,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,48.100000000000001,30.719345682234433,-17.380654317765568
+new:CS_1161,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,47.799999999999997,29.959724621628361,-17.840275378371636
+new:CS_1162,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,41.299999999999997,28.849935038295019,-12.450064961704978
+new:CS_1163,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,41,28.432537657342628,-12.567462342657372
+new:CS_1164,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,40.600000000000001,28.00223107142854,-12.597768928571462
+new:CS_1165,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,43,33.533229562104559,-9.4667704378954411
+new:CS_1166,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,42.899999999999999,33.335990038295023,-9.5640099617049756
+new:CS_1167,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,42.799999999999997,32.808035595238081,-9.9919644047619158
+new:CS_1168,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,38.799999999999997,28.603812002580749,-10.196187997419248
+new:CS_1169,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,40.100000000000001,27.729470563186808,-12.370529436813193
+new:CS_1170,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,38.5,26.961418182234425,-11.538581817765575
+new:CS_1171,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,39.399999999999999,27.151385985264731,-12.248614014735267
+new:CS_1172,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,37.600000000000001,27.097405032883774,-10.502594967116227
+new:CS_1173,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,33.700000000000003,27.188876314935051,-6.5111236850649519
+new:CS_1174,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,63.899999999999999,37.795647698412672,-26.104352301587326
+new:CS_1175,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,58.600000000000001,36.703596746031728,-21.896403253968273
+new:CS_1176,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,57.799999999999997,36.107713769841268,-21.692286230158729
+new:CS_1177,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,52.100000000000001,37.881293333333318,-14.218706666666684
+new:CS_1178,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,51.600000000000001,36.44371761904759,-15.156282380952412
+new:CS_1179,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,47.700000000000003,35.707174999999992,-11.992825000000011
+new:CS_1180,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,44.399999999999999,36.644269931457423,-7.7557300685425759
+new:CS_1181,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,40.899999999999999,36.078180119047595,-4.821819880952404
+new:CS_1182,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,41.5,35.15217440476188,-6.3478255952381204
+new:CS_1183,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,50.600000000000001,37.51941557142856,-13.080584428571441
+new:CS_1184,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,48.200000000000003,37.110607119047614,-11.089392880952389
+new:CS_1185,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,46.700000000000003,36.285521027777776,-10.414478972222227
+new:CS_1186,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,48.399999999999999,35.012133210317451,-13.387866789682548
+new:CS_1187,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,39.799999999999997,34.82008704365078,-4.9799129563492173
+new:CS_1188,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,43.399999999999999,34.433597718253964,-8.9664022817460349
+new:CS_1189,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,42,34.140404384920629,-7.8595956150793711
+new:CS_1190,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,0,3,38,33.924762480158726,-4.0752375198412736
+new:CS_1539,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,49.600000000000001,42.421809166666669,-7.178190833333332
+new:CS_1540,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,49.299999999999997,41.521849047619042,-7.7781509523809547
+new:CS_1541,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,50.200000000000003,41.566595952380951,-8.6334040476190523
+new:CS_1542,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,46.700000000000003,40.730057202380955,-5.9699427976190478
+new:CS_1543,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,46.299999999999997,40.497608253968252,-5.8023917460317449
+new:CS_1544,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,57.5,44.69824416666669,-12.80175583333331
+new:CS_1545,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,57.100000000000001,43.809181785714308,-13.290818214285693
+new:CS_1546,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,57.700000000000003,43.875956785714294,-13.824043214285709
+new:CS_1547,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,54.100000000000001,43.296830476190486,-10.803169523809515
+new:CS_1548,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,53.799999999999997,42.847188253968255,-10.952811746031742
+new:CS_1549,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,60.299999999999997,45.888395357142862,-14.411604642857135
+new:CS_1550,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,60,45.167915357142853,-14.832084642857147
+new:CS_1551,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,60.899999999999999,45.200037857142853,-15.699962142857146
+new:CS_1552,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,57.399999999999999,44.585917857142846,-12.814082142857153
+new:CS_1553,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,57.100000000000001,44.142618968253963,-12.957381031746039
+new:CS_1554,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,70.200000000000003,46.644983452380927,-23.555016547619076
+new:CS_1555,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,69.799999999999997,45.938287619047607,-23.86171238095239
+new:CS_1556,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,70.700000000000003,45.979514285714274,-24.720485714285729
+new:CS_1557,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,67.5,45.412079999999975,-22.087920000000025
+new:CS_1558,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,0,4,67.099999999999994,45.022581111111094,-22.0774188888889
+new:CS_1539,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,49.600000000000001,37.225175674603186,-12.374824325396816
+new:CS_1540,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,49.299999999999997,34.928005198412684,-14.371994801587313
+new:CS_1541,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,50.200000000000003,34.830444365079359,-15.369555634920644
+new:CS_1542,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,46.700000000000003,34.311603353174604,-12.388396646825399
+new:CS_1543,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,46.299999999999997,34.597497638888882,-11.702502361111115
+new:CS_1544,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,57.5,40.47710583333334,-17.02289416666666
+new:CS_1545,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,57.100000000000001,38.401672857142849,-18.698327142857153
+new:CS_1546,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,57.700000000000003,38.348560357142851,-19.351439642857152
+new:CS_1547,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,54.100000000000001,37.555881369047626,-16.544118630952376
+new:CS_1548,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,53.799999999999997,37.997259821428578,-15.802740178571419
+new:CS_1549,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,60.299999999999997,43.685104900793618,-16.614895099206379
+new:CS_1550,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,60,41.94362228174603,-18.05637771825397
+new:CS_1551,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,60.899999999999999,41.863441448412694,-19.036558551587305
+new:CS_1552,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,57.399999999999999,40.508528293650805,-16.891471706349193
+new:CS_1553,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,57.100000000000001,40.695657996031748,-16.404342003968253
+new:CS_1554,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,70.200000000000003,44.04914966269839,-26.150850337301613
+new:CS_1555,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,69.799999999999997,42.401280376984126,-27.398719623015872
+new:CS_1556,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,70.700000000000003,42.305849543650801,-28.394150456349202
+new:CS_1557,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,67.5,41.043294305555563,-26.456705694444437
+new:CS_1558,109,10.3969/j.issn.1001-9731.2013.17.020,new_G1538,1,0,67.099999999999994,41.163080674603179,-25.936919325396815
+new:CS_1150,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,48.399999999999999,31.99337347222222,-16.406626527777778
+new:CS_1151,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,53.299999999999997,31.897399792429795,-21.402600207570202
+new:CS_1152,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,46.899999999999999,31.112231697191692,-15.787768302808306
+new:CS_1153,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,45.299999999999997,30.686260039682566,-14.613739960317432
+new:CS_1154,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,46.299999999999997,29.938360149572663,-16.361639850427334
+new:CS_1155,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,43.299999999999997,29.797652094017113,-13.502347905982884
+new:CS_1156,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,40.5,28.72704527777773,-11.77295472222227
+new:CS_1157,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,46.299999999999997,28.552938443223407,-17.74706155677659
+new:CS_1158,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,42.299999999999997,28.345408443223402,-13.954591556776595
+new:CS_1159,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,52.600000000000001,32.731289920634914,-19.868710079365087
+new:CS_1160,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,48.100000000000001,31.993332420634953,-16.106667579365048
+new:CS_1161,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,47.799999999999997,31.545571944444479,-16.254428055555518
+new:CS_1162,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,41.299999999999997,30.672476706349229,-10.627523293650768
+new:CS_1163,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,41,30.100221944444442,-10.899778055555558
+new:CS_1164,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,40.600000000000001,29.362330158730124,-11.237669841269877
+new:CS_1165,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,43,33.720581514041541,-9.279418485958459
+new:CS_1166,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,42.899999999999999,33.455464847374856,-9.4445351526251429
+new:CS_1167,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,42.799999999999997,33.033365204517693,-9.7666347954823038
+new:CS_1168,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,38.799999999999997,30.220573601953621,-8.5794263980463761
+new:CS_1169,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,40.100000000000001,29.605965914224662,-10.49403408577534
+new:CS_1170,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,38.5,28.974783076923078,-9.5252169230769219
+new:CS_1171,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,39.399999999999999,29.462906172161155,-9.9370938278388437
+new:CS_1172,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,37.600000000000001,29.40927771978021,-8.1907222802197914
+new:CS_1173,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,33.700000000000003,29.49255855311355,-4.2074414468864525
+new:CS_1174,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,63.899999999999999,42.482303170579435,-21.417696829420564
+new:CS_1175,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,58.600000000000001,39.850781616855336,-18.749218383144665
+new:CS_1176,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,57.799999999999997,37.679370108918853,-20.120629891081144
+new:CS_1177,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,52.100000000000001,40.309842413003672,-11.79015758699633
+new:CS_1178,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,51.600000000000001,37.975221633089156,-13.624778366910846
+new:CS_1179,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,47.700000000000003,36.286869573204577,-11.413130426795426
+new:CS_1180,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,44.399999999999999,39.388199913003668,-5.0118000869963311
+new:CS_1181,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,40.899999999999999,38.221033819236318,-2.6789661807636804
+new:CS_1182,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,41.5,36.28948758547007,-5.21051241452993
+new:CS_1183,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,50.600000000000001,38.494180799755803,-12.105819200244198
+new:CS_1184,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,48.200000000000003,36.513912798312816,-11.686087201687187
+new:CS_1185,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,46.700000000000003,36.643638856976374,-10.056361143023629
+new:CS_1186,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,48.399999999999999,35.67646513764015,-12.723534862359848
+new:CS_1187,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,39.799999999999997,34.79049749694753,-5.0095025030524667
+new:CS_1188,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,43.399999999999999,34.354437496947519,-9.04556250305248
+new:CS_1189,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,42,34.147959996947527,-7.8520400030524726
+new:CS_1190,82,new:m m mao experimental study on performance of recycled coarse aggregate concrete d hebei university of engineering 2012 in chinese,new_G1149,1,1,38,33.924909996947527,-4.0750900030524733
+new:CS_0552,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,66.5,55.732693133116889,-10.767306866883111
+new:CS_0553,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,72.900000000000006,52.964396664756777,-19.935603335243229
+new:CS_0554,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,67.700000000000003,53.713015539215668,-13.986984460784335
+new:CS_0555,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,59.299999999999997,49.507794880952382,-9.7922051190476154
+new:CS_0556,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,58.899999999999999,39.30089797619047,-19.599102023809529
+new:CS_0557,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,74.299999999999997,49.135899718614667,-25.164100281385331
+new:CS_0558,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,68,49.997138690476206,-18.002861309523794
+new:CS_0559,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,74.299999999999997,56.814569047619045,-17.485430952380952
+new:CS_0560,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,68.5,36.943382896825419,-31.556617103174581
+new:CS_0561,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,70.5,42.201904179292917,-28.298095820707083
+new:CS_0562,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,68.099999999999994,50.068503116883129,-18.031496883116866
+new:CS_0563,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,62,52.608565238095224,-9.391434761904776
+new:CS_0564,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,52.899999999999999,33.396208710317453,-19.503791289682546
+new:CS_0565,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,52.200000000000003,38.539641163003658,-13.660358836996345
+new:CS_0566,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,71,46.285697413419911,-24.714302586580089
+new:CS_0567,36,10.3969/j.issn.1003-8825.2007.04.052,new_G0551,1,4,73.099999999999994,52.683765238095248,-20.416234761904747

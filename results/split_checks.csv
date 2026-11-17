@@ -1,0 +1,16 @@
+﻿scenario,seed,train_rows,cal_rows,test_rows,train_groups,cal_groups,test_groups,train_sources,cal_sources,test_sources,train_test_source_overlap,train_cal_source_overlap,train_test_group_overlap,row_radius,group_radius,ad_threshold,features
+new_random_diagnostic,20261107,1041,347,348,96,87,87,112,100,99,96,97,84,7.948832261904755,11.205330496031774,1.1836908748421135,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp
+new_grouped,20261107,1038,444,254,59,20,20,70,21,24,0,0,0,15.394067460317451,32.8821206342269,4.69607500307252,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp
+new_grouped_dummy,20261107,1038,444,254,59,20,20,70,21,24,0,0,0,23.16616666666667,40.206166666666675,4.69607500307252,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp
+old_to_new,20261107,461,125,1736,45,15,98,50,15,115,0,0,0,21.941194722222228,45.07014944271911,32.02898772542995,cement|fly_ash|slag|water|sand|coarse
+new_to_old,20261107,1126,610,586,73,25,60,77,38,65,0,0,0,14.817144446941946,26.682785992063476,1.4815771687474677,cement|fly_ash|slag|water|sand|coarse
+new_random_diagnostic,20261108,1041,347,348,99,85,86,115,98,98,98,98,86,7.951650099206336,13.632640853174614,1.142442780066489,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp
+new_grouped,20261108,968,376,392,59,20,20,73,21,21,0,0,0,14.492909386724396,34.39522273809523,2.229071302188029,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp
+new_grouped_dummy,20261108,968,376,392,59,20,20,73,21,21,0,0,0,20.161115702479343,36.83111570247934,2.229071302188029,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp
+old_to_new,20261108,413,173,1736,45,15,98,47,18,115,0,0,0,18.435214548026835,27.89625201817981,0.9285686539251535,cement|fly_ash|slag|water|sand|coarse
+new_to_old,20261108,1270,466,586,73,25,60,87,28,65,0,0,0,15.984873897907622,24.912682957717458,3.603855198061426,cement|fly_ash|slag|water|sand|coarse
+new_random_diagnostic,20261109,1041,347,348,99,84,82,115,96,93,93,96,82,7.36869833333332,11.055200308441563,1.160435558993111,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp
+new_grouped,20261109,1130,317,289,59,20,20,74,20,21,0,0,0,11.619956388888884,20.86468643994897,2.3683073339756233,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp
+new_grouped_dummy,20261109,1130,317,289,59,20,20,74,20,21,0,0,0,18.29680442477876,27.503195575221234,2.3683073339756233,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp
+old_to_new,20261109,457,129,1736,45,15,98,50,15,115,0,0,0,28.15717680555551,66.99519237554112,12.867862571910617,cement|fly_ash|slag|water|sand|coarse
+new_to_old,20261109,1253,483,586,73,25,60,84,31,65,0,0,0,14.358192916487155,33.77244547799425,1.0917311228461968,cement|fly_ash|slag|water|sand|coarse

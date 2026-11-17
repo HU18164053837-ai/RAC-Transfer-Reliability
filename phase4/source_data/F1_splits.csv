@@ -1,0 +1,11 @@
+﻿run,scenario,repeat,fold,seed,fit_n,cal_n,test_n,fit_groups,cal_groups,test_groups,source_overlap,group_overlap,features,zero_iqr_features
+main_R0_F0,main,0,0,2026110801,892,311,533,59,20,20,0,0,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp,slag
+main_R0_F1,main,0,1,2026110901,1113,410,213,59,20,20,0,0,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp,slag
+main_R0_F2,main,0,2,2026111001,903,397,436,59,20,20,0,0,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp,slag
+main_R0_F3,main,0,3,2026111101,960,457,319,59,20,20,0,0,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp,slag
+main_R0_F4,main,0,4,2026111201,1112,389,235,60,20,19,0,0,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp,slag
+main_R1_F0,main,1,0,2026110802,945,289,502,59,20,20,0,0,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp,slag
+main_R1_F1,main,1,1,2026110902,1226,238,272,59,20,20,0,0,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp,slag
+main_R1_F2,main,1,2,2026111002,936,422,378,59,20,20,0,0,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp,slag
+main_R1_F3,main,1,3,2026111102,838,537,361,59,20,20,0,0,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp,slag
+main_R1_F4,main,1,4,2026111202,905,608,223,60,20,19,0,0,density|crushing|absorption|cement|fly_ash|slag|water|sand|coarse|rar|sp,slag

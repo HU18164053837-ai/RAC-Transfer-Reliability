@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "checks": 21,
+  "recalculated_values": 12100,
+  "operating_points": 600,
+  "imported": [
+    "/prepare",
+    "/experiment",
+    "phase2/prepare_phase2",
+    "phase2/run_experiments",
+    "phase2/analyze",
+    "phase3/prepare",
+    "phase3/supplement"
+  ],
+  "wall_seconds": 21.024289599998156,
+  "additional_fits": 0,
+  "resampling": 0,
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "pandas": "3.1.0"
+}

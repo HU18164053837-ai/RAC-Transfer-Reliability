@@ -1,0 +1,27 @@
+﻿claim_id,raw_value,expected_value,source,fields,calculation,producer,status
+Main rows,1736,1736,phase2/data/new_frozen.csv,record_id,row count,phase2/prepare_phase2.py,verified
+Publications,115,115,phase2/data/new_frozen.csv,source_id,nunique,phase1 source canonicalization; phase2/prepare_phase2.py,verified
+Components,99,99,phase2/data/new_frozen.csv,group,nunique,phase1 association graph; phase2/prepare_phase2.py,verified
+Prediction events,3472,3472,phase2/results/predictions.csv,scenario; record_key,scenario=main count,phase2/run_experiments.py,verified
+Repeats,2,2,phase2/results/predictions.csv,repeat,scenario=main nunique,phase2/run_experiments.py,verified
+Main runs,10,10,phase2/results/predictions.csv,run,scenario=main nunique,phase2/run_experiments.py,verified
+Focus sources,7,7,phase3/results/source_verification_summary.csv,ref_no,row count,phase3/curate_evidence.py,verified
+Focus records,247,247,phase3/results/source_verification_summary.csv,records,sum,phase3/curate_evidence.py,verified
+Original-row confirmed focus sources,0,0,phase3/results/source_verification_summary.csv,rowwise_original_confirmation,sum,phase3/curate_evidence.py,verified
+Recipe edges,556,556,phase2/results/verified_recipe_edges.csv,record_a; record_b,row count,phase2/prepare_phase2.py,verified
+Components with 1 source(s),93,93,phase2/data/new_frozen.csv,group; source_id,groupby group nunique sources ==1,phase1 grouping; phase4 descriptive count,verified
+Components with 2 source(s),4,4,phase2/data/new_frozen.csv,group; source_id,groupby group nunique sources ==2,phase1 grouping; phase4 descriptive count,verified
+Components with 5 source(s),1,1,phase2/data/new_frozen.csv,group; source_id,groupby group nunique sources ==5,phase1 grouping; phase4 descriptive count,verified
+Components with 9 source(s),1,1,phase2/data/new_frozen.csv,group; source_id,groupby group nunique sources ==9,phase1 grouping; phase4 descriptive count,verified
+Risk records,254,254,phase2/data/new_frozen.csv,metadata_risk_group,sum,phase2/prepare_phase2.py,verified
+Risk components,4,4,phase2/data/new_frozen.csv,group; metadata_risk_group,nunique where flagged,phase2/prepare_phase2.py,verified
+Risk publications,9,9,phase2/data/new_frozen.csv,source_id; metadata_risk_group,nunique where flagged,phase2/prepare_phase2.py,verified
+Positive RAC rows,1488,1488,phase2/data/new_frozen.csv,rar,count >0,phase2/analyze.py,verified
+Natural controls,248,248,phase2/data/new_frozen.csv,rar,count ==0,phase2/analyze.py,verified
+Unique input-target rows,1704,1704,phase2/data/new_frozen.csv,unique_xy_first,sum,phase2/prepare_phase2.py,verified
+Outlier flags,87,87,phase2/data/new_frozen.csv,outlier_flag,sum; not excluded,database compiler,verified
+Old raw candidates,980,980,phase3/data/old_all980_classification.csv,record_id,row count,frozen historical audit,verified
+Old frozen rows,722,722,phase2/data/old_input.csv,record_id,row count,frozen historical audit,verified
+Old stress cohort,586,586,phase2/data/old_input.csv,core_eligible,sum,phase1 stress cohort,verified
+Independent candidates,6,6,phase3/results/independent_candidates.csv,candidate,row count,phase3/curate_evidence.py,verified
+External confirmation rows,0,0,phase3/results/independent_candidates.csv,rows_admitted,sum over six candidates,phase3/curate_evidence.py,verified

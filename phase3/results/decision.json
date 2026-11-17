@@ -1,0 +1,14 @@
+{
+  "decision": "CONDITIONAL GO",
+  "paper_scope": "internal_cross_study_empirical_benchmark",
+  "new_algorithm_superiority": false,
+  "material_causality": false,
+  "independent_confirmation": false,
+  "search_closed": true,
+  "additional_model_fits": 0,
+  "source_original_mapping_confirmed": 0,
+  "writing_route": "bounded_empirical_manuscript_with_explicit_limitations",
+  "joint80_macro_survivor_coverage": 0.855173977928352,
+  "joint80_zero_absent_macro_coverage": 0.7808110233258867,
+  "joint80_source_success_yield": 0.6534795601160809
+}

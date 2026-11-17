@@ -1,0 +1,4 @@
+﻿first_no,last_no,reference,recorded_identifier,verified_identifier,issue,evidence_url
+41,48,"(Tam et al., 2019)",10.1007/s42524-019-0019-3,10.1007/s42524-019-0019-2,DOI suffix typo; all nine mixtures belong to the same paper,https://journal.hep.com.cn/fem/EN/PDF/10.1007/s42524-019-0019-2
+204,213,"(Andreu and Miren, 2014)",10.1016/j.conbuildmat.2012.04.013,10.1016/j.conbuildmat.2013.11.054,Recorded DOI points to Abd Elhakam et al.; title/authors/tables identify the correct paper,https://doi.org/10.1016/j.conbuildmat.2013.11.054
+576,590,"(Kou et al., 2013)",10.1016/j.cemconcomp.2012.12.011,10.1016/j.cemconcomp.2011.05.009,"Recorded DOI points to Kou and Poon 2013 fly-ash long-term study; mixture design identifies Kou, Poon and Agrela 2011 mineral-admixture comparison",https://www.sciencedirect.com/science/article/pii/S0958946511000989

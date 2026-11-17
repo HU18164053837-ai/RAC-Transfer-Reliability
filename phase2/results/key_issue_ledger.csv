@@ -1,0 +1,8 @@
+﻿issue,finding,evidence,status
+RAC956_vs_980,Original workbook IDs1-980; page Dataset4 says956; IDs957-980 Limbachiya2012; no evidence they are version2 additions,legacy_count_evidence.md + https://data.mendeley.com/datasets/wc898ff5pj/2,count_resolved_description_discrepancy_not_author_erratum
+refs2_75,sameDOI; samegroup asserted,new_references.csv,resolved
+ref52,Publisher identifies rubber-aggregate concrete confined by steel tubes; row-level mapping to RAC remains unresolved,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,material_or_source_mismatch_risk_not_adjudicated
+ref109,Publisher title and authors corroborated; original size/standard/fulltext not established,https://www.gncl.cn/CN/Y2013/V44/I17/31,metadata_only
+ref101,No primary fulltext recovered in bounded search,database_README.md reference101,unknown
+refs8_9,prediction-model titles indicate possible recompiled data; direct experimental provenance unresolved,new_references.csv,sensitivity_only
+ref77,title includes silica fume absent from modeling columns; extracted subgroup unidentified,new_references.csv,sensitivity_only

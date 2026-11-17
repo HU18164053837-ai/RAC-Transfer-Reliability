@@ -1,0 +1,11 @@
+﻿variable,unit,compatibility,note
+cement,kg/m3,conditional,水泥产品并非保证纯OPC
+fly_ash,kg/m3,conditional,新旧均为单独报告剂量
+slag,kg/m3,conditional,新旧均为单独报告剂量
+water,kg/m3,conditional,报告拌合水，有效/总水及预湿口径可能不同
+sand,kg/m3,conditional,旧NFA+RFA；迁移主试验限制旧RFA=0；新库仅报告砂
+coarse,kg/m3,conditional,旧NCA+RCA；新CA为粗骨料总量
+rar,varies,limited,旧为质量剂量比；新替代率质量/体积口径未细化，不用于迁移主试验
+density/crushing/absorption/sp,varies,limited,新库有，旧冻结输入没有；不可伪造补齐
+silica_fume/metakaolin/recycled_fine,varies,limited,旧有，新库无；迁移主试验限制旧此三者=0，不假设所有新记录无隐藏掺料
+target,varies,limited,均28天；新为150mm立方体等效CS，旧报告值试件不统一；仅操作性迁移，不作物理等价结论

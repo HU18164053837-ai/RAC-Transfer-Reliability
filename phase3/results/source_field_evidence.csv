@@ -1,0 +1,73 @@
+﻿ref_no,field,status,value,evidence_level,evidence_url,basis
+36,database_record_range,已证实,16行; CS_0552-CS_0567,本地输入,https://doi.org/10.3969/j.issn.1003-8825.2007.04.052,附件数据库与Phase 2冻结副本逐字节一致
+36,bibliographic_identity,无法核实,"X.D. Lu, Y.Z. Ye, Z.R. Yan. Study on compressive strength of high-strength concrete with recycled aggregate[J]. Subgrade Engineering, 2007(4): 105-107. https://doi.org/10.3969/j.issn.1003-8825.2007.04.052. (In Chinese).",附件/二手线索,https://doi.org/10.3969/j.issn.1003-8825.2007.04.052,原文未获取；不能由高强样本及模型低覆盖推断龄期或标签错误
+36,experiment_or_recompiled_origin,无法核实,unknown,原文行级,https://doi.org/10.3969/j.issn.1003-8825.2007.04.052,原文未获取；不能由高强样本及模型低覆盖推断龄期或标签错误
+36,specimen_shape_size,无法核实,unknown,原文行级,https://doi.org/10.3969/j.issn.1003-8825.2007.04.052,未得到该来源方法章节；不从编库等效150mm声明反推原始试件
+36,age_28days,无法核实,28days_curator_claim_only,编库声明,https://doi.org/10.3969/j.issn.1003-8825.2007.04.052,README称统一28天，未获得该来源逐行独立龄期证据
+36,strength_definition,无法核实,150mm_cube_equivalent_curator_claim,编库声明,https://doi.org/10.3969/j.issn.1003-8825.2007.04.052,原始立方体/圆柱/轴压/约束强度及数据库目标映射未核实
+36,strength_unit,无法核实,MPa_curator_claim,编库声明,https://doi.org/10.3969/j.issn.1003-8825.2007.04.052,附件单位MPa已读，原文该列未独立确认
+36,test_standard,无法核实,unknown,原文行级,https://doi.org/10.3969/j.issn.1003-8825.2007.04.052,未见原始测试标准和版本，不推定GB/ASTM/EN
+36,conversion_factor,无法核实,unknown,原文行级,https://doi.org/10.3969/j.issn.1003-8825.2007.04.052,编库未附逐行原始尺寸及换算系数；不自行换算
+36,mixture_row_mapping,无法核实,unknown,原文行级,https://doi.org/10.3969/j.issn.1003-8825.2007.04.052,没有可用原文配合比/响应表完成逐行映射；原始剂量另存focus_records.csv
+82,database_record_range,已证实,41行; CS_1150-CS_1190,本地输入,,附件数据库与Phase 2冻结副本逐字节一致
+82,bibliographic_identity,无法核实,"M.M. Mao. Experimental study on performance of recycled coarse aggregate concrete[D]. Hebei University of Engineering, 2012. (In Chinese).",附件/二手线索,,未获取河北工程大学该学位论文原文；中文作者名和精确题名也未独立确认
+82,experiment_or_recompiled_origin,无法核实,unknown,原文行级,,未获取河北工程大学该学位论文原文；中文作者名和精确题名也未独立确认
+82,specimen_shape_size,无法核实,unknown,原文行级,,未得到该来源方法章节；不从编库等效150mm声明反推原始试件
+82,age_28days,无法核实,28days_curator_claim_only,编库声明,,README称统一28天，未获得该来源逐行独立龄期证据
+82,strength_definition,无法核实,150mm_cube_equivalent_curator_claim,编库声明,,原始立方体/圆柱/轴压/约束强度及数据库目标映射未核实
+82,strength_unit,无法核实,MPa_curator_claim,编库声明,,附件单位MPa已读，原文该列未独立确认
+82,test_standard,无法核实,unknown,原文行级,,未见原始测试标准和版本，不推定GB/ASTM/EN
+82,conversion_factor,无法核实,unknown,原文行级,,编库未附逐行原始尺寸及换算系数；不自行换算
+82,mixture_row_mapping,无法核实,unknown,原文行级,,没有可用原文配合比/响应表完成逐行映射；原始剂量另存focus_records.csv
+109,database_record_range,已证实,20行; CS_1539-CS_1558,本地输入,https://www.gncl.cn/CN/Y2013/V44/I17/31,附件数据库与Phase 2冻结副本逐字节一致
+109,bibliographic_identity,已证实,"H.T. Yang, S.Z. Tian. Study on preparation and performance of high-strength recycled aggregate concrete[J]. Journal of Functional Materials, 2013, 44(17): 2524-2527. https://doi.org/10.3969/j.issn.1001-9731.2013.17.020. (In Chinese).",官方元数据,https://www.gncl.cn/CN/Y2013/V44/I17/31,官方摘要确认作者/题名及0/30/50/80/100%再生替代试验设计；未获取方法和逐行数值表
+109,experiment_or_recompiled_origin,无法核实,unknown,原文行级,https://www.gncl.cn/CN/Y2013/V44/I17/31,官方摘要确认作者/题名及0/30/50/80/100%再生替代试验设计；未获取方法和逐行数值表
+109,specimen_shape_size,无法核实,unknown,原文行级,https://www.gncl.cn/CN/Y2013/V44/I17/31,未得到该来源方法章节；不从编库等效150mm声明反推原始试件
+109,age_28days,无法核实,28days_curator_claim_only,编库声明,https://www.gncl.cn/CN/Y2013/V44/I17/31,README称统一28天，未获得该来源逐行独立龄期证据
+109,strength_definition,无法核实,150mm_cube_equivalent_curator_claim,编库声明,https://www.gncl.cn/CN/Y2013/V44/I17/31,原始立方体/圆柱/轴压/约束强度及数据库目标映射未核实
+109,strength_unit,已证实,MPa_abstract,官方摘要,https://www.gncl.cn/CN/Y2013/V44/I17/31,官方摘要采用MPa量纲但未绑定逐行28天强度
+109,test_standard,无法核实,unknown,原文行级,https://www.gncl.cn/CN/Y2013/V44/I17/31,未见原始测试标准和版本，不推定GB/ASTM/EN
+109,conversion_factor,无法核实,unknown,原文行级,https://www.gncl.cn/CN/Y2013/V44/I17/31,编库未附逐行原始尺寸及换算系数；不自行换算
+109,mixture_row_mapping,无法核实,unknown,原文行级,https://www.gncl.cn/CN/Y2013/V44/I17/31,没有可用原文配合比/响应表完成逐行映射；原始剂量另存focus_records.csv
+109,replacement_design,已证实,0/30/50/80/100%,官方摘要+本地集合,https://www.gncl.cn/CN/Y2013/V44/I17/31,官方摘要设计替代水平与附件此来源RAR集合一致，不等于全部剂量/响应逐行验证
+109,bibliographic_pages,存在冲突,publisher_page:31-0; supplied_reference:2524-2527,官方网页与附件,https://www.gncl.cn/CN/Y2013/V44/I17/31,官方页面显示页码与附件不一致，可能为站点元数据问题；不据此判定实验值错误
+8,database_record_range,已证实,120行; CS_0065-CS_0184,本地输入,https://pubs.cstam.org.cn/article/id/628b6a66ca140b06b8e0ad43,附件数据库与Phase 2冻结副本逐字节一致
+8,bibliographic_identity,无法核实,"H. Meng, Q.Y. Li. Strength prediction of recycled concrete based on BP network[C]//Proceedings of the 3rd National Symposium on Recycled Concrete. 2012: 208-215. (In Chinese).",附件/二手线索,https://pubs.cstam.org.cn/article/id/628b6a66ca140b06b8e0ad43,仅找到孟红2012同主题学位论文的下游引文，不能代替附件所列会议论文
+8,experiment_or_recompiled_origin,无法核实,unknown,原文行级,https://pubs.cstam.org.cn/article/id/628b6a66ca140b06b8e0ad43,仅找到孟红2012同主题学位论文的下游引文，不能代替附件所列会议论文
+8,specimen_shape_size,无法核实,unknown,原文行级,https://pubs.cstam.org.cn/article/id/628b6a66ca140b06b8e0ad43,未得到该来源方法章节；不从编库等效150mm声明反推原始试件
+8,age_28days,无法核实,28days_curator_claim_only,编库声明,https://pubs.cstam.org.cn/article/id/628b6a66ca140b06b8e0ad43,README称统一28天，未获得该来源逐行独立龄期证据
+8,strength_definition,无法核实,150mm_cube_equivalent_curator_claim,编库声明,https://pubs.cstam.org.cn/article/id/628b6a66ca140b06b8e0ad43,原始立方体/圆柱/轴压/约束强度及数据库目标映射未核实
+8,strength_unit,无法核实,MPa_curator_claim,编库声明,https://pubs.cstam.org.cn/article/id/628b6a66ca140b06b8e0ad43,附件单位MPa已读，原文该列未独立确认
+8,test_standard,无法核实,unknown,原文行级,https://pubs.cstam.org.cn/article/id/628b6a66ca140b06b8e0ad43,未见原始测试标准和版本，不推定GB/ASTM/EN
+8,conversion_factor,无法核实,unknown,原文行级,https://pubs.cstam.org.cn/article/id/628b6a66ca140b06b8e0ad43,编库未附逐行原始尺寸及换算系数；不自行换算
+8,mixture_row_mapping,无法核实,unknown,原文行级,https://pubs.cstam.org.cn/article/id/628b6a66ca140b06b8e0ad43,没有可用原文配合比/响应表完成逐行映射；原始剂量另存focus_records.csv
+9,database_record_range,已证实,12行; CS_0185-CS_0196,本地输入,https://doi.org/10.3969/j.issn.1002-3550.2018.11.015,附件数据库与Phase 2冻结副本逐字节一致
+9,bibliographic_identity,无法核实,"W. Gao. Prediction of compressive strength of recycled concrete based on deep learning[J]. Concrete, 2018(11): 58-61,70. https://doi.org/10.3969/j.issn.1002-3550.2018.11.015. (In Chinese).",附件/二手线索,https://doi.org/10.3969/j.issn.1002-3550.2018.11.015,附件及下游引文指向2018预测建模研究，原始实验或二次汇编映射未知
+9,experiment_or_recompiled_origin,无法核实,unknown,原文行级,https://doi.org/10.3969/j.issn.1002-3550.2018.11.015,附件及下游引文指向2018预测建模研究，原始实验或二次汇编映射未知
+9,specimen_shape_size,无法核实,unknown,原文行级,https://doi.org/10.3969/j.issn.1002-3550.2018.11.015,未得到该来源方法章节；不从编库等效150mm声明反推原始试件
+9,age_28days,无法核实,28days_curator_claim_only,编库声明,https://doi.org/10.3969/j.issn.1002-3550.2018.11.015,README称统一28天，未获得该来源逐行独立龄期证据
+9,strength_definition,无法核实,150mm_cube_equivalent_curator_claim,编库声明,https://doi.org/10.3969/j.issn.1002-3550.2018.11.015,原始立方体/圆柱/轴压/约束强度及数据库目标映射未核实
+9,strength_unit,无法核实,MPa_curator_claim,编库声明,https://doi.org/10.3969/j.issn.1002-3550.2018.11.015,附件单位MPa已读，原文该列未独立确认
+9,test_standard,无法核实,unknown,原文行级,https://doi.org/10.3969/j.issn.1002-3550.2018.11.015,未见原始测试标准和版本，不推定GB/ASTM/EN
+9,conversion_factor,无法核实,unknown,原文行级,https://doi.org/10.3969/j.issn.1002-3550.2018.11.015,编库未附逐行原始尺寸及换算系数；不自行换算
+9,mixture_row_mapping,无法核实,unknown,原文行级,https://doi.org/10.3969/j.issn.1002-3550.2018.11.015,没有可用原文配合比/响应表完成逐行映射；原始剂量另存focus_records.csv
+52,database_record_range,已证实,30行; CS_0708-CS_0737,本地输入,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,附件数据库与Phase 2冻结副本逐字节一致
+52,bibliographic_identity,已证实,"X. Xiao, W. Huang, M.Y. Shen, et al. Experimental study on axial compression of rubber aggregate concrete filled steel tubular stub columns[J]. Journal of Experimental Mechanics, 2021, 36(6): 771-782. https://doi.org/10.7520/1001-4888-20-244. (In Chinese).",官方元数据,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,官方期刊目录确认橡胶集料/钢管约束研究范围；不能仅凭题名认定30条数据库混合物错误
+52,experiment_or_recompiled_origin,无法核实,unknown,原文行级,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,官方期刊目录确认橡胶集料/钢管约束研究范围；不能仅凭题名认定30条数据库混合物错误
+52,specimen_shape_size,无法核实,unknown,原文行级,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,未得到该来源方法章节；不从编库等效150mm声明反推原始试件
+52,age_28days,无法核实,28days_curator_claim_only,编库声明,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,README称统一28天，未获得该来源逐行独立龄期证据
+52,strength_definition,无法核实,150mm_cube_equivalent_curator_claim,编库声明,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,原始立方体/圆柱/轴压/约束强度及数据库目标映射未核实
+52,strength_unit,无法核实,MPa_curator_claim,编库声明,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,附件单位MPa已读，原文该列未独立确认
+52,test_standard,无法核实,unknown,原文行级,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,未见原始测试标准和版本，不推定GB/ASTM/EN
+52,conversion_factor,无法核实,unknown,原文行级,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,编库未附逐行原始尺寸及换算系数；不自行换算
+52,mixture_row_mapping,无法核实,unknown,原文行级,https://sylx.ustc.edu.cn/sylx/article/issue/2021_36_6,没有可用原文配合比/响应表完成逐行映射；原始剂量另存focus_records.csv
+77,database_record_range,已证实,8行; CS_1116-CS_1123,本地输入,https://lwtj.shzu.edu.cn/openfile?dbid=72&lwsing=27a63aaee7662ddad219bb00f8cffee5&objid=54_56_54_48_50,附件数据库与Phase 2冻结副本逐字节一致
+77,bibliographic_identity,无法核实,"S.L. Wang, Y. Yu, B. Zhang, et al. Experimental study on influence of fly ash and silica fume on mechanical properties of recycled concrete[J]. Concrete, 2011(12): 53-55. https://doi.org/10.3969/j.issn.1002-3550.2011.12.016. (In Chinese).",附件/二手线索,https://lwtj.shzu.edu.cn/openfile?dbid=72&lwsing=27a63aaee7662ddad219bb00f8cffee5&objid=54_56_54_48_50,下游公开学位论文引文支持题名涉及粉煤灰与硅粉；未确定附件8行是否仅选无硅粉子集
+77,experiment_or_recompiled_origin,无法核实,unknown,原文行级,https://lwtj.shzu.edu.cn/openfile?dbid=72&lwsing=27a63aaee7662ddad219bb00f8cffee5&objid=54_56_54_48_50,下游公开学位论文引文支持题名涉及粉煤灰与硅粉；未确定附件8行是否仅选无硅粉子集
+77,specimen_shape_size,无法核实,unknown,原文行级,https://lwtj.shzu.edu.cn/openfile?dbid=72&lwsing=27a63aaee7662ddad219bb00f8cffee5&objid=54_56_54_48_50,未得到该来源方法章节；不从编库等效150mm声明反推原始试件
+77,age_28days,无法核实,28days_curator_claim_only,编库声明,https://lwtj.shzu.edu.cn/openfile?dbid=72&lwsing=27a63aaee7662ddad219bb00f8cffee5&objid=54_56_54_48_50,README称统一28天，未获得该来源逐行独立龄期证据
+77,strength_definition,无法核实,150mm_cube_equivalent_curator_claim,编库声明,https://lwtj.shzu.edu.cn/openfile?dbid=72&lwsing=27a63aaee7662ddad219bb00f8cffee5&objid=54_56_54_48_50,原始立方体/圆柱/轴压/约束强度及数据库目标映射未核实
+77,strength_unit,无法核实,MPa_curator_claim,编库声明,https://lwtj.shzu.edu.cn/openfile?dbid=72&lwsing=27a63aaee7662ddad219bb00f8cffee5&objid=54_56_54_48_50,附件单位MPa已读，原文该列未独立确认
+77,test_standard,无法核实,unknown,原文行级,https://lwtj.shzu.edu.cn/openfile?dbid=72&lwsing=27a63aaee7662ddad219bb00f8cffee5&objid=54_56_54_48_50,未见原始测试标准和版本，不推定GB/ASTM/EN
+77,conversion_factor,无法核实,unknown,原文行级,https://lwtj.shzu.edu.cn/openfile?dbid=72&lwsing=27a63aaee7662ddad219bb00f8cffee5&objid=54_56_54_48_50,编库未附逐行原始尺寸及换算系数；不自行换算
+77,mixture_row_mapping,无法核实,unknown,原文行级,https://lwtj.shzu.edu.cn/openfile?dbid=72&lwsing=27a63aaee7662ddad219bb00f8cffee5&objid=54_56_54_48_50,没有可用原文配合比/响应表完成逐行映射；原始剂量另存focus_records.csv

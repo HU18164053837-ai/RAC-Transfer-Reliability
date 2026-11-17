@@ -1,0 +1,10 @@
+﻿item,title,evidence_logic,source_tables,status
+Fig1,数据及证据边界,1736/115/99、登记来源与真实实验单位的区别；7来源证据等级,source_field_evidence.csv; Phase2 split_ledger.csv,planned_not_new_figures_rendered
+Fig2,校准收益与区间代价,样本/来源覆盖、全宽、两种IS及配对CI；原生与校准预算分开,interval_score_tradeoff.csv; paired_cluster_changes.csv,planned_not_new_figures_rendered
+Fig3,低覆盖与同向残差,完整来源覆盖分布；36/82/109逐轮偏移，未知不作错误判据,focus_residual_diagnostics.csv; Phase2 source_coverage.csv,planned_not_new_figures_rendered
+Fig4,服务范围与选择风险,固定工作点；条件覆盖/消失计零/原始来源成功服务并列,joint_retention_risk.csv; source_retention_ledger.csv,planned_not_new_figures_rendered
+Fig5,简单基线与来源消失,随机100次、SD、距离、width、joint；单轮与合并来源消失,random_joint_metrics_100.csv; disappeared_sources.csv; paired_cluster_changes.csv,planned_not_new_figures_rendered
+Table1,数据/标签/验证范围,出版来源、配方关联、编库声明、原文证据及外部验证缺失,source_verification_summary.csv; independent_candidates.csv,planned_not_new_figures_rendered
+Table2,校准总表,90%原生与预算结果、IS、宽度、连通组CI,interval_score_tradeoff.csv; cluster_ci.csv,planned_not_new_figures_rendered
+Table3,拒判总表,80/90%预设点，样本/来源保留和原始分母结果,key_joint_metrics.csv; joint_retention_risk.csv,planned_not_new_figures_rendered
+SI,审计、复现和所有工作点,7来源字段表、逐轮消失名单、搜索与创新性矩阵、保护清单,source_field_evidence.csv; bounded_search_log.csv; novelty_matrix.csv; validation.json,planned_not_new_figures_rendered
